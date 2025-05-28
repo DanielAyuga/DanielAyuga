@@ -1,13 +1,13 @@
- <h1 align="center">Hola 👋, soy Daniel Ayuga</h1>
+ <h1 align="center">Hola, soy Daniel Ayuga 👋</h1>
 <h3 align="center">Administrador de Azure en Madrid</h3>
 </p>
 <img align="right" alt="coding" width="400px" src=
 
 <p align="left">
 
-- 🌱 I’m currently learning ** AZ-305: Microsoft Azure Architect Design **
+- 🌱 Actualmente aprendiendo ** AZ-305: Microsoft Azure Architect Design **
 
-- 📫 How to reach me **danielayugachacon@outlook.com**
+- 📫 Cómo contactarme **danielayugachacon@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
