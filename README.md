@@ -2,12 +2,14 @@
 <h2 align="center">☁️Administrador de Azure en Madrid☁️</h2>
 <img align="right" alt="coding" width="400px" src="https://github.com/DanielAyuga/DanielAyuga/blob/db81018dea8fe07ac6e88cc15033a6cdc117d9f8/azure-informacion-1.jpg">
 
- <h2 align="left"> ¡Sobre mi! </h2>
- </h1>
-  
+📂 Aquí expondré los proyectos personales que realizo con Azure y Terraform principalmente, así como otros laboratorios y pruebas de todo tipo.
+
+<h2 align="left">¡Sobre mi!</h2>  
+
+
+</h1>
+
 💼 Busco empleo como administrador de Azure  
- 
-📂 Aquí expondré los proyectos personales que realizo con Azure y Terraform
 
 🎓 Actualmente aprendiendo: ** AZ-305: Microsoft Azure Architect Design **
 
