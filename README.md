@@ -11,7 +11,7 @@
 
 💼 Busco empleo como administrador de Azure  
 
-🎓 Actualmente aprendiendo: ** AZ-500: Microsoft Azure Architect Design **
+🎓 Actualmente aprendiendo: ** AZ-500: Azure Security Engineer Associate **
 
 🏆 Certificaciones: AZ-104, AZ-800, SC-900 y AZ-900
 
