@@ -11,9 +11,9 @@
 
 💼 Busco empleo como administrador de Azure  
 
-🎓 Actualmente aprendiendo: ** AZ-305: Microsoft Azure Architect Design **
+🎓 Actualmente aprendiendo: ** AZ-500: Microsoft Azure Architect Design **
 
-🏆 Certificaciones: AZ-104, SC-900 y AZ-900
+🏆 Certificaciones: AZ-104, AZ-800, SC-900 y AZ-900
 
 📫 Cómo contactarme: **danielayugachacon@outlook.com**
                       **www.danicloudtech.com**
